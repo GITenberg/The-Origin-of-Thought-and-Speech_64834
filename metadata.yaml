@@ -1,0 +1,25 @@
+_repo: The-Origin-of-Thought-and-Speech_64834
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Whitmarsh, G. S.
+    gutenberg_agent_id: '53073'
+    url: http://www.gutenberg.org/2009/agents/53073
+creator:
+  author:
+    agent_name: Moncalm, M.
+    gutenberg_agent_id: '53072'
+    url: http://www.gutenberg.org/2009/agents/53072
+description: ''
+gutenberg_issued: '2021-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64834'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Origin of Thought and Speech
+url: http://www.gutenberg.org/ebooks/64834
