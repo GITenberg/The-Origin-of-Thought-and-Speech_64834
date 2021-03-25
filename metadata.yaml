@@ -5,12 +5,17 @@ contributor:
     agent_name: Whitmarsh, G. S.
     gutenberg_agent_id: '53073'
     url: http://www.gutenberg.org/2009/agents/53073
+covers:
+- cover_type: archival
+  image_path: 64834-h/images/cover.jpg
 creator:
   author:
     agent_name: Moncalm, M.
     gutenberg_agent_id: '53072'
     url: http://www.gutenberg.org/2009/agents/53072
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64834#The-Origin-of-Thought-and-Speech
 gutenberg_issued: '2021-03-15'
 gutenberg_type: Text
 identifiers:
